@@ -1,0 +1,30 @@
+﻿{
+  "name": "dfgg",
+  "description": "zad",
+  "keywords": [
+    "hgjuy"
+  ],
+  "env": {
+    "PROTOCOL": {
+      "description": "协议VMess或VLESS，请填小写的vmess或vless",
+      "value": "vmess",
+      "required": true
+    },
+    "UUID": {
+      "description": "用户的主ID",
+      "value": "6c1b8c90-7ca1-4ed3-812c-dba1dc2231d8",
+      "required": false
+    },
+    "WS_PATH": {
+      "description": "websocket路径",
+      "value": "/erdghjyer",
+      "required": true
+    }
+  },
+  "website": "https://github.com/Eegtujder/Edfghjkeru57",
+  "repository": "https://github.com/Eegtujder/Edfghjkeru57",
+  "stack": "container",
+  "features": [
+    "runtime-dyno-metadata"
+  ]
+}
